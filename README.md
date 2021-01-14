@@ -1,7 +1,7 @@
 ![Cover](https://github.com/AkashSrivastava1721/AkashSrivastava1721/blob/main/Cover_Akash.jpg)
 
 ## Hi There 👋 !!
-<p align="centre">I am a non CS background Engineering Undergraduate, who is multienthusiastic in both Core and IT Technologies. I am embacing my self in the field of new technologies of Software and Embedded Development and Cloud Computations with Machine Learning and IOT. Other than that building my reach toward this wonderfull community and networking with world wide innovaters.</p>
+<p align="centre">I am an Engineering Undergraduate, who is multienthusiastic in both Core and IT Technologies. I am embacing my self in the field of new technologies of Software and Embedded Development and Cloud Computations with Machine Learning and IOT. Other than that building my reach toward this wonderfull community and networking with world wide innovaters.</p>
 
 ## My Technology and Tools !!
 ![](https://img.shields.io/badge/Development_Tool-Visual_Studio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
