@@ -20,8 +20,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=AkashSrivastava1721&count_private=true&show_icons=true&theme=radical&hide=issues"/>
 
 ## Connect with me !!
-<a href="" rel="some text"><img src="https://krueger.ca/wp-content/uploads/2016/02/linkedin-logo.png" alt="linkedin" height="48" width="48"></a>
-<a href="" rel="some text"><img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-background-hd-3.png" alt="instagram" height="48" width="48"></a>
-<a href="" rel="some text"><img src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="twitter" height="48" width="48"></a>
+<a href="https://www.linkedin.com/in/akash-s-233ab3160/" rel="some text"><img src="https://krueger.ca/wp-content/uploads/2016/02/linkedin-logo.png" alt="linkedin" height="48" width="48"></a>
+<a href="https://www.instagram.com/_akash_17_10/" rel="some text"><img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-background-hd-3.png" alt="instagram" height="48" width="48"></a>
+<a href="https://twitter.com/AkashSr1234" rel="some text"><img src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="twitter" height="48" width="48"></a>
 <a href="" rel="some text"><img src="https://image.flaticon.com/icons/png/512/2582/2582607.png" alt="medium" height="48" width="48"></a>
 <a href="" rel="some text"><img src="https://i.pinimg.com/originals/31/23/9a/31239a2f70e4f8e4e3263fafb00ace1c.png" alt="youtube" height="48" width="48"></a>
