@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## My Github Stats !!
+![](https://komarev.com/ghpvc/?username=AkashSrivastava1721&color=green)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSrivastava1721&show_icons=true&theme=radical&&layout=compact"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=AkashSrivastava1721&count_private=true&show_icons=true&theme=radical&hide=issues"/>
