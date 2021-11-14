@@ -18,6 +18,10 @@
 
 ## My Github Stats !!
 ![](https://komarev.com/ghpvc/?username=AkashSrivastava1721&color=green)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSrivastava1721&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSrivastava1721&theme=nord_dark)
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=AkashSrivastava1721&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
@@ -25,8 +29,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSrivastava1721&show_icons=true&theme=radical&&layout=compact" height="130" width="280"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=AkashSrivastava1721&count_private=true&show_icons=true&theme=radical&hide=issues" height="130" width="560"/>
 </p>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSrivastava1721&theme=nord_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSrivastava1721&theme=nord_dark)
 
 ## Connect with me !!
 <p align="center">
