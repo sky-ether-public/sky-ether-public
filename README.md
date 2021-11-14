@@ -1,5 +1,5 @@
 <a href="" float="center">
-  <img src="https://github.com/AkashSrivastava1721/AkashSrivastava1721/blob/main/Cover_Akash.jpg" height="500" width="1500"/>
+  <img src="https://github.com/AkashSrivastava1721/AkashSrivastava1721/blob/main/Cover_Akash.jpg" />
 </a>
 <p align="center"> <b>😄 Connect With Me</b> </p>
 <p align="center">
