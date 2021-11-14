@@ -10,11 +10,11 @@
 <a href="https://www.instagram.com/_er_akash_/" rel="some text"><img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-background-hd-3.png" alt="instagram" height="30" width="30"></a>
 <a href="https://twitter.com/AkashS_Engineer" rel="some text"><img src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="twitter" height="30" width="30"></a>
 <a href="https://dev.to/dev1721" rel="some text"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2019/05/dev-logo.jpg" alt="dev.to" height="30" width="30"></a>
-<!-- <a href="" rel="some text"><img src="https://i.pinimg.com/originals/31/23/9a/31239a2f70e4f8e4e3263fafb00ace1c.png" alt="youtube" height="30" width="30"></a>
-</p> -->
+<!-- <a href="" rel="some text"><img src="https://i.pinimg.com/originals/31/23/9a/31239a2f70e4f8e4e3263fafb00ace1c.png" alt="youtube" height="30" width="30"></a>-->
 <br>
-<a href="" float="center"><img src="https://komarev.com/ghpvc/?username=AkashSrivastava1721&color=blue"/>
-
+<a href="" float="center"><img src="https://komarev.com/ghpvc/?username=AkashSrivastava1721&color=blue"/></a>
+</p>
+  
 ## Hi There 👋 !!
 <p align="centre">I am a beginer in full stack development. I use following in my current work experience such as Javascript framework Angular,React for the Frontend development, Node.js and Express.js, Java Spring, JDBC for Backend development and REST API building. Side by side my other skills are development in Machine Learning and python framework such as flask. I am also proficient in SQL and No SQL Databases and its structuring. I have experience in working in Agile SDLC and Git Version Control also learning Decentalised Edge Distributed Systems.</p>
 
