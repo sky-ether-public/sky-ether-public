@@ -18,14 +18,19 @@
 
 ## My Github Stats !!
 ![](https://komarev.com/ghpvc/?username=AkashSrivastava1721&color=green)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=AkashSrivastava1721&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
 <p float="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSrivastava1721&show_icons=true&theme=radical&&layout=compact" height="130" width="280"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=AkashSrivastava1721&count_private=true&show_icons=true&theme=radical&hide=issues" height="130" width="560"/>
 </p>
 
 ## Connect with me !!
-<a href="https://www.linkedin.com/in/akash-s-233ab3160/" rel="some text"><img src="https://krueger.ca/wp-content/uploads/2016/02/linkedin-logo.png" alt="linkedin" height="48" width="48"></a>
-<a href="https://www.instagram.com/_er_akash_/" rel="some text"><img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-background-hd-3.png" alt="instagram" height="48" width="48"></a>
-<a href="https://twitter.com/AkashSr1234" rel="some text"><img src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="twitter" height="48" width="48"></a>
-<a href="https://dev.to/dev1721" rel="some text"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2019/05/dev-logo.jpg" alt="dev.to" height="48" width="48"></a>
-<a href="" rel="some text"><img src="https://i.pinimg.com/originals/31/23/9a/31239a2f70e4f8e4e3263fafb00ace1c.png" alt="youtube" height="48" width="48"></a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/akash-s-233ab3160/" rel="some text"><img src="https://krueger.ca/wp-content/uploads/2016/02/linkedin-logo.png" alt="linkedin" height="30" width="30"></a>
+<a href="https://www.instagram.com/_er_akash_/" rel="some text"><img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-background-hd-3.png" alt="instagram" height="30" width="30"></a>
+<a href="https://twitter.com/AkashSr1234" rel="some text"><img src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="twitter" height="30" width="30"></a>
+<a href="https://dev.to/dev1721" rel="some text"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2019/05/dev-logo.jpg" alt="dev.to" height="30" width="30"></a>
+<a href="" rel="some text"><img src="https://i.pinimg.com/originals/31/23/9a/31239a2f70e4f8e4e3263fafb00ace1c.png" alt="youtube" height="30" width="30"></a>
+</p>
