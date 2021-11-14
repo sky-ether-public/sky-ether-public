@@ -1,7 +1,9 @@
 ![Cover](https://github.com/AkashSrivastava1721/AkashSrivastava1721/blob/main/Cover_Akash.jpg)
 
 ## Hi There 👋 !!
-<p align="centre">I am an Engineering Undergraduate, who is multienthusiastic in both Core and IT Technologies. I am embacing my self in the field of new technologies of Software and Embedded Development and Cloud Computations with Machine Learning and IOT. Other than that building my reach toward this wonderfull community and networking with world wide innovaters.</p>
+<p align="centre">I am a beginer in full stack development. I use following in my current work experience such as Javascript framework Angular,React for the Frontend development, Node.js and Express.js, Java Spring, JDBC for Backend development and REST API building. Side by side my other skills are development in Machine Learning and python framework such as flask. I am also proficient in SQL and No SQL Databases and its structuring. I have experience in working in Agile SDLC and Git Version Control also learning Decentalised Edge Distributed System.</p>
+
+<b>Focus: </b><p>Web 3.0, Industry 4.0, Metaverse</p>
 
 ## My Technology and Tools !!
 ![](https://img.shields.io/badge/Development_Tool-Visual_Studio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
