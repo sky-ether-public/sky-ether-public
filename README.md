@@ -24,6 +24,8 @@
 <p float="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSrivastava1721&show_icons=true&theme=radical&&layout=compact" height="130" width="280"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=AkashSrivastava1721&count_private=true&show_icons=true&theme=radical&hide=issues" height="130" width="560"/>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSrivastava1721&theme=nord_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSrivastava1721&theme=nord_dark)
 </p>
 
 ## Connect with me !!
