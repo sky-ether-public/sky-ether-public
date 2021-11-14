@@ -19,8 +19,10 @@
 ## My Github Stats !!
 ![](https://komarev.com/ghpvc/?username=AkashSrivastava1721&color=green)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSrivastava1721&show_icons=true&theme=radical&&layout=compact" height="150" width="300"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=AkashSrivastava1721&count_private=true&show_icons=true&theme=radical&hide=issues" height="150" width="600"/>
+<p float="left">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSrivastava1721&show_icons=true&theme=radical&&layout=compact" height="150" width="300"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=AkashSrivastava1721&count_private=true&show_icons=true&theme=radical&hide=issues" height="150" width="600"/>
+</p>
 
 ## Connect with me !!
 <a href="https://www.linkedin.com/in/akash-s-233ab3160/" rel="some text"><img src="https://krueger.ca/wp-content/uploads/2016/02/linkedin-logo.png" alt="linkedin" height="48" width="48"></a>
