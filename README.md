@@ -19,7 +19,7 @@
 ## My Github Stats !!
 ![](https://komarev.com/ghpvc/?username=AkashSrivastava1721&color=green)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSrivastava1721&show_icons=true&theme=radical&&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSrivastava1721&show_icons=true&theme=radical&&layout=compact" height="100" width="100"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=AkashSrivastava1721&count_private=true&show_icons=true&theme=radical&hide=issues"/>
 
 ## Connect with me !!
