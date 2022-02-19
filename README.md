@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Backend-Node.Js/Express.Js,Java_Spring,JDBC-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-## Blog Repo: ![Click here for reading my Blogs.](https://github.com/AkashSrivastava1721/Blog.me)
+## Blog Repo: [Click here for reading my Blogs.](https://github.com/AkashSrivastava1721/Blog.me)
 
 ## 📈 My Github Stats !!
 <a href="https://github.com/ryo-ma/github-profile-trophy" float="center">
