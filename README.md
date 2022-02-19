@@ -18,7 +18,7 @@
 ## Hi There 👋 !!
 <p align="centre">I am an Innovation Engineer primary focused on Software Development and Project Management. In my current experience I have use javascript frame works such as Angular and ReactJs for frontend developemnt, figma for UX design, NodeJS, Java Spring, Python Flask for creating backend services. I have used MongoDB Atlas, PostgreSQL, SQLite as Database services. I know basic product management skilss such as JIRA, high level designing of poc and micromangement of task/subtasks.</p>
 
-<b>Focus: </b><p>Web 3.0, Industry 4.0, Metaverse</p>
+<b>Focus: </b><p>Blockchain, Web 3.0, Industry 4.0, Metaverse</p>
 
 ## ⚙️ My Technology and Tools !!
 ![](https://img.shields.io/badge/Development_Tool-Visual_Studio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -30,6 +30,8 @@
 ![](https://img.shields.io/badge/Frontend-Angular,React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Backend-Node.Js/Express.Js,Java_Spring,JDBC-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+## Blog Repo: ![Click here for reading my Blogs.](https://github.com/AkashSrivastava1721/Blog.me)
 
 ## 📈 My Github Stats !!
 <a href="https://github.com/ryo-ma/github-profile-trophy" float="center">
