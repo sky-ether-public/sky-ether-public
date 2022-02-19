@@ -16,7 +16,7 @@
 </p>
   
 ## Hi There 👋 !!
-<p align="centre">I am an Innovation Engineer primary focused on Software Development and Project Management. In my current experience I have use javascript frame works such as Angular and ReactJs for frontend developemnt, figma for UX design, NodeJS, Java Spring, Python Flask for creating backend services. I have used MongoDB Atlas, PostgreSQL, SQLite as Database services. I know basic produc management skilss such as JIRA, high level designing of poc and micromangement of task/subtasks.</p>
+<p align="centre">I am an Innovation Engineer primary focused on Software Development and Project Management. In my current experience I have use javascript frame works such as Angular and ReactJs for frontend developemnt, figma for UX design, NodeJS, Java Spring, Python Flask for creating backend services. I have used MongoDB Atlas, PostgreSQL, SQLite as Database services. I know basic product management skilss such as JIRA, high level designing of poc and micromangement of task/subtasks.</p>
 
 <b>Focus: </b><p>Web 3.0, Industry 4.0, Metaverse</p>
 
