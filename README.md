@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/sky.ether.public" rel="some text"><img src="https://img.icons8.com/color/2x/instagram-new--v2.png" alt="instagram" height="30" width="30"></a>
 <a href="https://twitter.com/AkashS_Engineer" rel="some text"><img src="https://img.icons8.com/color/2x/twitter--v4.png" alt="twitter" height="30" width="30"></a>
 <a href="https://www.youtube.com/@sky.ether.public" rel="some text"><img src="https://img.icons8.com/fluency/2x/youtube-play.png" alt="youtube" height="30" width="30"></a>
-  <a href="https://github.com/sky-ether-public/Blog.me" rel="some text"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-developer-mobile-app-development-flaticons-lineal-color-flat-icons-2.png"  alt="dev.to" height="30" width="30"></a>
+  <a href="https://sky-ether-public.github.io/sky.ether.public.github.io/" rel="some text"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-developer-mobile-app-development-flaticons-lineal-color-flat-icons-2.png"  alt="dev.to" height="30" width="30"></a>
 <br>
 <a href="" float="center"><img src="https://komarev.com/ghpvc/?username=AkashSrivastava1721&color=blue"/></a>
 </p>
