@@ -6,11 +6,11 @@
 </a>
 </p>
 <p align="center">
-    <a href="https://www.linkedin.com/in/akash-engineer/" rel="some text"><img src="https://github.com/AkashSrivastava1721/AkashSrivastava1721/blob/main/Assets/LinkedIn.png" alt="linkedin" height="30" width="30"></a>
-<a href="https://www.instagram.com/sky.ether.public" rel="some text"><img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-background-hd-3.png" alt="instagram" height="30" width="30"></a>
+    <a href="https://www.linkedin.com/in/akash-engineer/" rel="some text"><img src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="linkedin" height="30" width="30"></a>
+<a href="https://www.instagram.com/sky.ether.public" rel="some text"><img src="https://img.icons8.com/color/2x/instagram-new--v2.png" alt="instagram" height="30" width="30"></a>
 <a href="https://twitter.com/AkashS_Engineer" rel="some text"><img src="https://img.icons8.com/color/2x/twitter--v4.png" alt="twitter" height="30" width="30"></a>
-<a href="https://dev.to/dev1721" rel="some text"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2019/05/dev-logo.jpg" alt="dev.to" height="30" width="30"></a>
-<a href="https://www.youtube.com/@sky.ether.public" rel="some text"><img src="https://i.pinimg.com/originals/31/23/9a/31239a2f70e4f8e4e3263fafb00ace1c.png" alt="youtube" height="30" width="30"></a>
+<a href="https://dev.to/dev1721" rel="some text"><img src="https://icons8.com/icon/Sf2NuZRCVuaE/dev" alt="dev.to" height="30" width="30"></a>
+<a href="https://www.youtube.com/@sky.ether.public" rel="some text"><img src="https://img.icons8.com/fluency/2x/youtube-play.png" alt="youtube" height="30" width="30"></a>
 <br>
 <a href="" float="center"><img src="https://komarev.com/ghpvc/?username=AkashSrivastava1721&color=blue"/></a>
 </p>
